@@ -1,0 +1,25 @@
+<style>
+body{
+background-color: #34ebeb;
+}
+.flex-container {
+display: flex;
+flex-direction: row;
+background-color: #34ebeb;
+flex-wrap: nowrap;
+justify-content: center;
+align-items: center;
+text-align: center;
+margin: 15px;
+}
+.flex-col{
+display: flex;
+flex-direction: column;
+background-color: #34ebeb;
+flex-warp: wrap;
+justify-content: center;
+align-items: center;
+text-aling: left;
+margin: 15px;
+}
+</style>
